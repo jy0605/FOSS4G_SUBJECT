@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2022 jy0605
+Copyright (c) 2022 Juyeon Bong
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
